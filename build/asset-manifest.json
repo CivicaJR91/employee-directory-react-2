@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CivicaJR91/employee-directory-react-2/static/css/main.80b0a4f8.chunk.css",
+    "main.js": "/CivicaJR91/employee-directory-react-2/static/js/main.7dd89e41.chunk.js",
+    "main.js.map": "/CivicaJR91/employee-directory-react-2/static/js/main.7dd89e41.chunk.js.map",
+    "runtime-main.js": "/CivicaJR91/employee-directory-react-2/static/js/runtime-main.f3516ce9.js",
+    "runtime-main.js.map": "/CivicaJR91/employee-directory-react-2/static/js/runtime-main.f3516ce9.js.map",
+    "static/css/2.150d169a.chunk.css": "/CivicaJR91/employee-directory-react-2/static/css/2.150d169a.chunk.css",
+    "static/js/2.492a5300.chunk.js": "/CivicaJR91/employee-directory-react-2/static/js/2.492a5300.chunk.js",
+    "static/js/2.492a5300.chunk.js.map": "/CivicaJR91/employee-directory-react-2/static/js/2.492a5300.chunk.js.map",
+    "index.html": "/CivicaJR91/employee-directory-react-2/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/CivicaJR91/employee-directory-react-2/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.80b0a4f8.chunk.css.map": "/CivicaJR91/employee-directory-react-2/static/css/main.80b0a4f8.chunk.css.map",
+    "static/js/2.492a5300.chunk.js.LICENSE.txt": "/CivicaJR91/employee-directory-react-2/static/js/2.492a5300.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3516ce9.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.492a5300.chunk.js",
+    "static/css/main.80b0a4f8.chunk.css",
+    "static/js/main.7dd89e41.chunk.js"
+  ]
+}

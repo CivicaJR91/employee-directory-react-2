@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/utils/style.css"],"names":[],"mappings":"AAMA,SACI,iBACJ,CAEA,OACG,gBACH,CACA,EACI,iBACJ","file":"main.80b0a4f8.chunk.css","sourcesContent":["h1{\n    text-align: center;\n}\ntr{\n    text-align: center;\n}\ntd{\n    text-align: center;\n}\n\nbutton{ \n   margin-left: 30px;\n}\np{\n    text-align: center;\n}\n"]}
