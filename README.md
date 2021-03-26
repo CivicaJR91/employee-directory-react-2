@@ -18,4 +18,4 @@ This application uses React and others NPM Packages. Once you fork the applicati
 ![screenshot](./image/empdirec.png)
 
 # Application Link:
-https://civicajr91.github.io/employee-directory-react-2/
+Heroku: https://floating-ocean-21215.herokuapp.com/
